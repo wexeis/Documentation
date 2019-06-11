@@ -8,8 +8,8 @@ However, and this is important to understand, we will *not* create a front end i
 
 ## Instructions
 
-- Fork this repository
-- Clone your fork on your pc
+- Do a `git pull` inside the Submission repo
+- Go to Submissions/Challenge/movie-database
 - COMMIT AFTER EACH STEP, call each commit by the name of the step
 
 ## Goals:
