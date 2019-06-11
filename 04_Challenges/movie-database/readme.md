@@ -25,8 +25,7 @@ However, and this is important to understand, we will *not* create a front end i
 
 ## Step 1 - Setting up the project
 
-- create a new directory
-- go in the directory and run `npm init` to create a new project
+- go in the movie-database directory and run `npm init` to create a new project
 - answer whatever you like to the questions
 - install express: `npm install --save express`
 - also, install nodemon, it will make things easier: `npm install --save-dev nodemon`
