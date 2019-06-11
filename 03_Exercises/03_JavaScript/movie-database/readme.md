@@ -44,7 +44,7 @@ However, and this is important to understand, we will *not* create a front end i
 - create a file ".gitignore". In this file, write, at the top: `node_modules`. This will prevent the `node_modules` directory to be added to your git repo
 - run `git init` to initiate a git repository in this directory
 - create a project on Gitlab/Github
-- push your local repo to it <kbd>🔑🔑🔑</kbd>
+- push your local repo to it
 - you're set!
 
 ## Step 2 - Create a simple express server
@@ -52,13 +52,13 @@ However, and this is important to understand, we will *not* create a front end i
 - with express, create a server, and make it listen on a port of your choice (e.g, `3000`)
 - make it so this express server, when receiving an url, answers `ok`
 - test your server by running `npm run dev`
-- commit ("step 2") <kbd>🔑</kbd>
+- commit ("step 2")
 
 ## Step 3 - Create an express simple API
 
 - with Express, create a route such as, when the url `/test` is invoked, answers: `{status:200, message:"ok"}`
 - with Express, create a route such as, when the url `/time` is invoked, answers with: `{status:200, message:<TIME>}`, where `<TIME>` is the current time in hours and seconds like so: `14:20`
-- commit ("step 3") <kbd>🔑</kbd>
+- commit ("step 3") 
 
 ## Step 4 - Let's complicate the API
 
@@ -80,19 +80,19 @@ However, and this is important to understand, we will *not* create a front end i
    ]
    ```
 - With Express, make it so that when the url `/movies/read` is requested, you answer with `{status:200, data:<MOVIES> }` where `<MOVIES>` is the list of movies
-- commit ("step 5") <kbd>🔑</kbd>
+- commit ("step 5") 
 
 ## Step 6 - SEARCH
 
 - With express, make it so when the url `/movies/read/by-date` is requested, you answer with `{status:200, data:<MOVIES>}`, where `<MOVIES>` is the list of movies *ORDERED BY DATE*
 - With express, make it so when the url `/movies/read/by-rating` is requested, you answer with `{status:200, data:<MOVIES>}`, where `<MOVIES>` is the list of movies *ORDERED BY RATING*, where the highest rating is *at the top*.
 - With express, make it so when the url `/movies/read/by-title` is requested, you answer with `{status:200, data:<MOVIES>}`, where `<MOVIES>` is the list of movies *ORDERED BY TITLE*
-- commit ("step 6") <kbd>🔑🔑</kbd>
+- commit ("step 6") 
 
 ## Step 7 - READ ONE
 
 - With Express, make it so that when the url `/movies/read/id/<ID>` is requested, you answer with `{status:200, data:<MOVIE>}`, where `<MOVIE>` is the movie defined by the provided `<ID>`. If the id doesn't exist, then the answer should be: `{status:404, error:true, message:'the movie <ID> does not exist'}`. Don't forget to set an actual `404` status code. 
-- commit ("step 7") <kbd>🔑🔑</kbd>
+- commit ("step 7") 
 
 ## Step 8 - CREATE
 
@@ -107,31 +107,31 @@ However, and this is important to understand, we will *not* create a front end i
     4. `<YEAR>` is not a number
     6. ...then you answer `{status:403, error:true, message:'you cannot create a movie without providing a title and a year'}`
 - But if `<RATING>` is missing, set a default rating of `4`
-- commit ("step 8") <kbd>🔑🔑</kbd>
+- commit ("step 8")
 
 ## Step 9 - DELETE
 
 - With Express, make it so that when the url `movies/delete/<ID>` is requested, you delete the corresponding movie, and answer with the new list of movies, just like for `/movies/read`. if the id does not exist, answer with `{status:404, error:true, message:'the movie <ID> does not exist'}`
-- commit ("step 9") <kbd>🔑🔑🔑🔑</kbd>
+- commit ("step 9") 
 
 ## Step 10 - UPDATE
 
 - With Express, make it so that when the url `/movies/update/<ID>?title=<NEW_TITLE>`, the movie designed by `<ID>` gets it's title changed to `<NEW_TITLE>`. Return the modified array of movies.
 - With Express, make it so that when the url `/movies/update/<ID>?title=<NEW_TITLE>&rating=<NEW_RATING>`, the movie designed by `<ID>` gets its rating changed to `<NEW_RATING>`, and its title to `<NEW_TITLE>`. If a user provides any of `title`, `rating`, or `year`, the movie should change to reflect those modifications. Fields that the user did *not* provide should not change. In the example here, the `year` of the movie should *not* change, as the user only provided `title` and `rating`.
-- commit ("step 10") <kbd>🔑</kbd>
+- commit ("step 10") 
 
 ## Step 11 - Use HTTP Verbs
 
 - change the urls to use `HTTP VERBS` (look it up. Google "rest APIs", and see "how to build REST APIs with Express")
-- commit ("step 11") <kbd>🔑</kbd>
+- commit ("step 11") 
 
 ## Step 12: Data Persistence
 
 - Save the data in a mongoDB database. See [this tutorial](https://medium.freecodecamp.org/building-a-simple-node-js-api-in-under-30-minutes-a07ea9e390d2) for help 
-- commit ("step 12") <kbd>🔑</kbd>
+- commit ("step 12") 
 
 ## Step 13: Authentication
 
 - create a CRUD app but for users (same as the one for movies, but with a `users` array that takes objects with usernames and passwords)
 - only allow an authenticated used to modify or delete movies
-- commit ("step 13") <kbd>🔑</kbd>
+- commit ("step 13") 
