@@ -35,7 +35,7 @@ In this part of the exercise, you will develop the three pages mentioned above u
   - <kdb>Products you sold(if you're a seller)</kdb>
 3. Create a **Contact** page that includes your contact info (phone number, email address, location) and a contact form
 4. Create a **Menu** that can be used to navigate between the pages, and include it in all the pages
-8. Commit ("HTML") 🔑🔑🔑
+8. Commit ("HTML") 12 x 🔑
 
 ### CSS PART II
 
@@ -43,7 +43,7 @@ In this part, you will design the previously developed portfolio
 1. Change font families, font sizes, colors
 2. Align the content of the pages and change width and height of each part
 3. Add images and background images
-4. Commit ("CSS") 🔑🔑🔑🔑
+4. Commit ("CSS") 12 x 🔑
 
 ### React PART III
 
@@ -53,4 +53,4 @@ In this part, you will migrate the previously developed portfolio from HTML & CS
 1. Use create-react-app command
 2. For each part of the website, create a component. For example, if you have a header, slider, container and a footer in your hompage, each should be a component. You will find out here that one of the benefits of React is code reusability (ex. using 1 header code for all pages)
 3. Use react-router to navigate between the pages
-4. Commit ("React") 🔑🔑🔑🔑🔑
+4. Commit ("React") 12 x 🔑
