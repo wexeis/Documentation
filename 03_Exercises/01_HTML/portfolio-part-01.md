@@ -21,8 +21,7 @@ You can refer to w3schools tutorials [here](https://www.w3schools.com/html/defau
 
 ## Instructions
 
-- Fork this repo
-- Clone it on your laptop
+- Run `git pull` inside your submission directory
 - Install Visual Studio Code
 
 ### HTML PART I
