@@ -87,15 +87,6 @@
 * [WordPress](05_WordPress/README.md)
     * [WordPress](05_WordPress/Basic-WordPress.md)
     
-* [Group Projects](06_Group_Projects/README.md)
-    * [Bakery-Shop](06_Group_Projects/bakery-shop.md)
-    * [comic-artist](06_Group_Projects/booking-app-brief.md)
-    * [dj-portfolio](06_Group_Projects/dj-portfolio.md)
-    * [jewelry-shop](06_Group_Projects/jewelry-shop.md)
-    * [prefab-houses](06_Group_Projects/prefab-houses.md)
-    * [sportswear-shop](06_Group_Projects/sportswear-shop.md)
-    * [booking-app-brief](06_Group_Projects/booking-app-brief.md)
-
 * [Non-Programming](07_Non_Pogramming/README.md)
     * [Tech-Watch](07_Non_Pogramming/tech-watch.md)
     * [Something interesting](07_Non_Pogramming/something-interesting.md)
