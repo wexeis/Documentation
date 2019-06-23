@@ -83,6 +83,7 @@
     * [Snake-Master](04_Challenges/snake-master/readme.md)
     * [Socket.IO](04_Challenges/Socket/readme.md)
     * [Movie Database](04_Challenges/movie-database/readme.md)
+    * [Laundry App](04_Challenges/Laundry-App/readme.md)
 
 * [WordPress](05_WordPress/README.md)
     * [WordPress](05_WordPress/Basic-WordPress.md)
