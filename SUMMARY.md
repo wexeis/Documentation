@@ -81,7 +81,6 @@
     * [Node.js Challenge](04_Challenges/NodeJS-Challenge/readme.md)
     * [Financial Tracker](04_Challenges/FinancialTracker/readme.md)
     * [Snake-Master](04_Challenges/snake-master/readme.md)
-    * [Socket.IO](04_Challenges/Socket/readme.md)
     * [Movie Database](04_Challenges/movie-database/readme.md)
     * [Laundry App](04_Challenges/Laundry-App/readme.md)
 
