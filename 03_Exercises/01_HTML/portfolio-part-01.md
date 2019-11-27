@@ -53,6 +53,7 @@ In this part, you will migrate the previously developed website from HTML & CSS 
 3. Use react-router to navigate between the pages
 4. Commit ("React") 12 x 🔑
 
-### Example project
+### Example project 
+You can use the following as an inspiration for your project website (credits: codeyourfuture)
 
-
+![example](https://github.com/coditech/Documentation/blob/master/03_Exercises/01_HTML/bikes%20for%20refugees.png)
