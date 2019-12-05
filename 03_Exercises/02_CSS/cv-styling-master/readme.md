@@ -22,10 +22,10 @@
 
 ## Tasks:
 
-1. Implement the style depicted in [style1.png](style1.png). Try to get as close as possible.
-1. Implement the mobile styles in [style1-mobile.png](style1-mobile.png)
-1. Implement the style depicted in [style2.png](style2.png). Try to get as close as possible.
-1. Implement the mobile styles in [style2-mobile.png](style2-mobile.png)
+1. Implement the style depicted in [style1.png](style1-n.png). Try to get as close as possible.
+1. Implement the mobile styles in [style1-mobile.png](style1-mobile-n.png)
+1. Implement the style depicted in [style2.png](style2-n.png). Try to get as close as possible.
+1. Implement the mobile styles in [style2-mobile.png](style2-mobile-n.png)
 1. Edit the HTML so it reflects your own information
 1. Implement your own Style
 
@@ -47,7 +47,7 @@ Note: Before reaching the last step, you should **not** touch the HTML. You *may
 1. Begin implementing the styles!
 1. When you're done, commit
 
-<kbd>🔑x30</kbd>
+<kbd>🔑x40</kbd>
 
 ### 3 - Implement style 2:
 
@@ -57,7 +57,7 @@ Note: Before reaching the last step, you should **not** touch the HTML. You *may
 1. Some images are used in this one; feel free to replace them with your own images if you prefer
 1. When you're done, commit
 
-<kbd>🔑x20</kbd>
+<kbd>🔑x30</kbd>
 
 ### 4 - Edit the HTML:
 
@@ -68,18 +68,7 @@ Note: Before reaching the last step, you should **not** touch the HTML. You *may
 1. Once you're done, copy the file to `public/style2` to replace the previous `index.html`
 1. When you're done, commit
 
-<kbd>🔑x10</kbd>
-
-### 5 - Implement your own style:
-
-Here is some inspiration: [10 handy tips for web design cvs and resumes](https://www.smashingmagazine.com/2009/04/10-handy-tips-for-web-design-cvs-and-resumes/)
-
-1. Copy the directory `public/style1/` and rename it `public/style3/`
-1. Open the file `public/style3/style.css` and empty it
-1. Follow the same instructions as for step 1, but you're free to implement your own styles
-1. When you're done, commit
-
-<kbd>🔑x20</kbd>
+<kbd>🔑x30</kbd>
 
 ### Notes:
 
@@ -91,12 +80,12 @@ Here is some inspiration: [10 handy tips for web design cvs and resumes](https:/
 ## Images:
 
 ### first style
-![1st style](style1.png "First Style")
+![1st style](./style1-n.png "First Style")
 
-![1nd style mobile](style1-mobile.png "First Style Mobile")
+![1nd style mobile](./style1-mobile-n.png "First Style Mobile")
 
 ### second style
 
-![2nd style](style2.png "Second Style")
+![2nd style](./style2-n.png "Second Style")
 
-![2nd style mobile](style2-mobile.png "Second Style Mobile")
+![2nd style mobile](./style2-mobile-n.png "Second Style Mobile")
