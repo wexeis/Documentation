@@ -22,12 +22,10 @@ Tech Watch: One student talks about one recent event. A discussion may start. A 
 
 ## <kbd>14:30</kbd> - <kbd>17:00</kbd>
 
-|                                     |       | OR  |     |     |
-| ----------------------------------- | ----- | --- | --- | --- |
-| <kbd>14:30</kbd> - <kbd>17:00</kbd> | Title |
-| <kbd>14:30</kbd> - <kbd>17:00</kbd> | Text  |
-
-Work time
+|                                     |                          | OR  |                                     |                                  |
+| ----------------------------------- | ------------------------ | --- | ----------------------------------- | -------------------------------- |
+| <kbd>14:30</kbd> - <kbd>15:00</kbd> | Debrief                  |     | <kbd>14:30</kbd> - <kbd>15:00</kbd> | Exercise / Projects / Challenges |
+| <kbd>15:00</kbd> - <kbd>17:00</kbd> | Workshop / Lab / Session |     | <kbd>15:00</kbd> - <kbd>17:00</kbd> | Debrief                          |
 
 ## <kbd>16:30</kbd> - <kbd>17:00</kbd>
 
@@ -37,7 +35,7 @@ Management and planning time
 
 # Weekly Schedule
 
-# General
+<!-- # General
 
 ### Tuesday
 
@@ -50,21 +48,20 @@ Logic Lab : 15:00 - 17:00 P.M
 ### Friday
 
 - Research & Presentation : 11:00 A.M
-- Workshops : 2:00 - 5:00 P.M
+- Workshops : 2:00 - 5:00 P.M -->
 
-# English
+## English
 
 ### Masterclass
 
 Friday 9:00 - 11:00 A.M
 
-### Strong Group
+### Advanced Group
 
-Monday : 15:00 - 17:00 P.M
+Wednesday : 9:00 - 11:00 A.M
 
-### Weaker Group
+### Intermediate Group
 
-- Monday : 9:00 - 11:00 A.M
-- Wednesday : 9:00 - 11:00 A.M
+- Tuesday : 9:00 - 11:00 A.M
 
 **Sechule is subject to change at any moment**

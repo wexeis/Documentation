@@ -4,11 +4,11 @@ The following pages describe a full process to create a simple, yet functional a
 
 Throughout the exercise, a lot of concepts will be explored.
 
-1. [Preparing](./01-preparing/readme.md): Where we will set up the basis of our app (2 hours)
-2. [Enhancements](./02-enhancements/readme.md): Where we will go a bit further in making our setup sturdy (3 hours)
-3. [CRUD](./03-crud/readme.md): Where we set up the database, and set up calls from the front-end (5 hours)
-4. [Looks](./04-preparing/readme.md): Where we make things look ok (2 hours)
-5. [Deployment](./05-deployment/readme.md): Where we export final files, and upload on a server (3 hours)
+1. Preparing: Where we will set up the basis of our app (2 hours)
+2. Enhancements: Where we will go a bit further in making our setup sturdy (3 hours)
+3. CRUD: Where we set up the database, and set up calls from the front-end (5 hours)
+4. Looks: Where we make things look ok (2 hours)
+5. Deployment: Where we export final files, and upload on a server (3 hours)
 
 ## Assumptions
 
