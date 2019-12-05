@@ -19,6 +19,8 @@
 
 - Layout: https://learnlayout.com/
 - Selectors: https://flukeout.github.io/
+- Flex: https://flexbox.io/
+- CSS Grid: https://cssgrid.io/
 
 ## Tasks:
 
