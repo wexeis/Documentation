@@ -32,7 +32,7 @@ In this part of the exercise, you will develop the three pages mentioned above u
 3. Create a **News and Events** page with some events and news from your creation.
 4. Create a **Contact Us** page that includes the contact info (phone number, email address, location) and a contact form
 5. Create a **Menu** that can be used to navigate between the pages, and include it in all the pages
-6. Commit ("HTML") 12 x 🔑
+6. Commit ("HTML") 30 x 🔑
 
 ### CSS PART II
 
@@ -41,7 +41,7 @@ In this part, you will design the previously developed website
 2. Align the content of the pages and change width and height of each part
 3. Add images and background images
 3. Make it responsive!
-4. Commit ("CSS") 12 x 🔑
+4. Commit ("CSS") 30 x 🔑
 
 ### React PART III
 
@@ -51,9 +51,9 @@ In this part, you will migrate the previously developed website from HTML & CSS 
 1. Use create-react-app command
 2. For each part of the website, create a component. For example, if you have a header, slider, container and a footer in your hompage, each should be a component. You will find out here that one of the benefits of React is code reusability (ex. using 1 header code for all pages)
 3. Use react-router to navigate between the pages
-4. Commit ("React") 12 x 🔑
+4. Commit ("React") 30 x 🔑
 
 ### Example project 
 You can use the following as an inspiration for your project website (credits: codeyourfuture)
 
-![example](https://github.com/coditech/Documentation/blob/master/03_Exercises/01_HTML/bikes%20for%20refugees.png)
+![](./bikes%20for%20refugees.png)
