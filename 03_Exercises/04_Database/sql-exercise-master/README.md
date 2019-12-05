@@ -92,6 +92,7 @@ Now, open the database **carDealership**. You will find 2 tables:
  - <kbd>Company of the employee</kbd>
  
 In the **Execute SQL** tab, do the following:
+
 11. Produce a table that contains, for each employee, his/her name, company name, and company date.
 12. Find the name of **employees** that work in companies made before 2000.
 13. Find the name of company that has a graphic designer.
@@ -102,6 +103,7 @@ In the **Execute SQL** tab, do the following:
 Go back the **myDatabase**.
 
 In the **Execute SQL** tab, do the following:
+
 14. Find the person with the highest number of points in **students**
 15. Find the average of points in **students**
 16. Find the number of students that have 500 points
