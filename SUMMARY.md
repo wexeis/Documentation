@@ -18,7 +18,6 @@
       - [Git Basics 02](01_General/02_Setup/03_Git/git-basics-02.md)
       - [Git Basics Trial (Exercise)](01_General/02_Setup/03_Git/git-basics-trial.md)
     - [L.A.M.P](01_General/02_Setup/04_L.A.M.P/readme.md)
-  - [Resources](01_General/03_Resources/resources.md)
   - [Participate (How-To)](01_General/04_Participate/README.md)
     - [Folder & File Structure](01_General/04_Participate/01-how-to-folder-file-structure.md)
     - [Tutorial Template](01_General/04_Participate/02-how-to-tutorial-template.md)
@@ -76,7 +75,6 @@
   - [Database](03_Exercises/04_Database/README.md)
     - [SQLite Basic](03_Exercises/04_Database/sql-exercise-master/README.md)
   - [React](03_Exercises/05_React/README.md)
-    - [Weather API](03_Exercises/05_React/weather-api/README.md)
 
 - [Challenges](04_Challenges/README.md)
 
@@ -85,7 +83,6 @@
   - [Financial Tracker](04_Challenges/FinancialTracker/readme.md)
   - [Snake-Master](04_Challenges/snake-master/readme.md)
   - [Movie Database](04_Challenges/movie-database/readme.md)
-  - [Laundry App](04_Challenges/Laundry-App/readme.md)
 
 - [WordPress](05_WordPress/README.md)
   - [WordPress](05_WordPress/Basic-WordPress.md)
