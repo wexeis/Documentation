@@ -25,3 +25,4 @@ You're going to talk to people
   - [Stack Overflow](https://stackoverflow.com/) (look for people with lots of points)
   - [Dev.to](https://dev.to/), [SurviveJS](https://survivejs.com/) or [Smashing Magazine](https://www.smashingmagazine.com/) (read articles and see who wrote them)
   - [Github](https://www.github.com) (look for popular repositories)
+  - [LinkedIn](https://www.smashingmagazine.com/)

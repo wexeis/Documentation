@@ -11,6 +11,7 @@ It should last at maximum 10 minutes and it is rewared with 🔑x10.
 
 * [medium](https://medium.com/)
 * [medium swlh](https://medium.com/swlh)
+* [smashing magazine](https://www.smashingmagazine.com/)
 * [dzone](https://dzone.com/)
 * [dev](https://dev.to/)
 * [code.fb](https://code.fb.com/)
