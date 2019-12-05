@@ -10,7 +10,7 @@
   - <kbd>Pseudo Selectors</kbd>
   - <kbd>Box Model</kbd>
   - <kbd>Media Queries</kbd>
-  - <kbd>Floats</kbd>
+  - <kbd>Floats/CSS Grid/Flex</kbd>
   - <kbd>Positioning</kbd>
   - <kbd>Overflow</kbd>
   - <kbd>Background-image</kbd>
