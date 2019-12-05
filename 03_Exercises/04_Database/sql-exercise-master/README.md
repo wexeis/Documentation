@@ -73,10 +73,10 @@ Layal graduated on 08/09/2018. Create a table **graduates** that includes:
 
 In the **Execute SQL** tab, do the following:
 
-1. Copy Layal's data from **students** to **graduates**
-2. Add the graduation date previously mentioned to Layal's record in **graduates**
-3. Remove Layal's record from **students**
-4. Commit ("Creating Table") 🔑🔑🔑🔑
+9. Copy Layal's data from **students** to **graduates**
+10. Add the graduation date previously mentioned to Layal's record in **graduates**
+11. Remove Layal's record from **students**
+12. Commit ("Creating Table") 🔑🔑🔑🔑
 
 ### Joins
 
@@ -93,10 +93,10 @@ Now, open the database **carDealership**. You will find 2 tables:
  
 In the **Execute SQL** tab, do the following:
 
-11. Produce a table that contains, for each employee, his/her name, company name, and company date.
-12. Find the name of **employees** that work in companies made before 2000.
-13. Find the name of company that has a graphic designer.
-14. Commit ("Joins") 🔑🔑🔑🔑🔑
+13. Produce a table that contains, for each employee, his/her name, company name, and company date.
+14. Find the name of **employees** that work in companies made before 2000.
+15. Find the name of company that has a graphic designer.
+16. Commit ("Joins") 🔑🔑🔑🔑🔑
 
 ### Count & Filter
 
@@ -104,9 +104,9 @@ Go back the **myDatabase**.
 
 In the **Execute SQL** tab, do the following:
 
-14. Find the person with the highest number of points in **students**
-15. Find the average of points in **students**
-16. Find the number of students that have 500 points
-17. Find the names of students that contains 's'
-18. Find all students based on the decreasing order of their points
-19. commit ("Count & Filter") 🔑🔑
+17. Find the person with the highest number of points in **students**
+18. Find the average of points in **students**
+19. Find the number of students that have 500 points
+20. Find the names of students that contains 's'
+21. Find all students based on the decreasing order of their points
+22. commit ("Count & Filter") 🔑🔑
