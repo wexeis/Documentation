@@ -66,7 +66,6 @@
   - [HTML](03_Exercises/01_HTML/README.md)
     - [Communtiy Project](03_Exercises/01_HTML/community-project.md)
   - [CSS](03_Exercises/02_CSS/README.md)
-    - [CV Styling](03_Exercises/02_CSS/cv-styling-master/readme.md)
   - [JavaScript](03_Exercises/03_JavaScript/README.md)
     - [Basics-01](03_Exercises/03_JavaScript/javascript-basics-01/readme.md)
     - [Basics-02](03_Exercises/03_JavaScript/javascript-basics-02/readme.md)
@@ -84,6 +83,7 @@
   - [Financial Tracker](04_Challenges/FinancialTracker/readme.md)
   - [Snake-Master](04_Challenges/snake-master/readme.md)
   - [Movie Database](04_Challenges/movie-database/readme.md)
+  - [CV Styling](04_Challenges/cv-styling-master/readme.md)
 
 - [WordPress](05_WordPress/README.md)
   - [WordPress](05_WordPress/Basic-WordPress.md)
