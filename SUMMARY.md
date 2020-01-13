@@ -75,6 +75,7 @@
   - [Database](03_Exercises/04_Database/README.md)
     - [SQLite Basic](03_Exercises/04_Database/sql-exercise-master/README.md)
   - [React](03_Exercises/05_React/README.md)
+    - [Weather API](03_Exercises/05_React/weather-api/README.md)
 
 - [Challenges](04_Challenges/README.md)
 
