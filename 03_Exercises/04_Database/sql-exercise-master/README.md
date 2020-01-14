@@ -50,7 +50,8 @@ In the **Execute SQL** tab, do the following:
 5. Add yourself as a new student (your name, your age...)
 6. Increase the points of **Basma** because she solved a new exercise
 7. Decrease the points of **Alex** because he's late today
-8. Commit ("Basic Queries") 🔑🔑🔑
+8. Remember to update **answers.sh** file
+9. Commit ("Basic Queries") 🔑🔑🔑
 
 ### Creating Table
 
@@ -64,10 +65,10 @@ Layal graduated on 08/09/2018. Create a table **graduates** that includes:
 
 In the **Execute SQL** tab, do the following:
 
-9. Copy Layal's data from **students** to **graduates**
-10. Add the graduation date previously mentioned to Layal's record in **graduates**
-11. Remove Layal's record from **students**
-12. Commit ("Creating Table") 🔑🔑🔑🔑
+10. Copy Layal's data from **students** to **graduates**
+11. Add the graduation date previously mentioned to Layal's record in **graduates**
+12. Remove Layal's record from **students**
+13. Commit ("Creating Table") 🔑🔑🔑🔑
 
 ### Joins
 
@@ -84,10 +85,10 @@ Now, open the database **carDealership**. You will find 2 tables:
  
 In the **Execute SQL** tab, do the following:
 
-13. Produce a table that contains, for each employee, his/her name, company name, and company date.
-14. Find the name of **employees** that work in companies made before 2000.
-15. Find the name of company that has a graphic designer.
-16. Commit ("Joins") 🔑🔑🔑🔑🔑
+14. Produce a table that contains, for each employee, his/her name, company name, and company date.
+15. Find the name of **employees** that work in companies made before 2000.
+16. Find the name of company that has a graphic designer.
+17. Commit ("Joins") 🔑🔑🔑🔑🔑
 
 ### Count & Filter
 
@@ -95,9 +96,9 @@ Go back the **myDatabase**.
 
 In the **Execute SQL** tab, do the following:
 
-17. Find the person with the highest number of points in **students**
-18. Find the average of points in **students**
-19. Find the number of students that have 500 points
-20. Find the names of students that contains 's'
-21. Find all students based on the decreasing order of their points
-22. commit ("Count & Filter") 🔑🔑
+18. Find the person with the highest number of points in **students**
+19. Find the average of points in **students**
+20. Find the number of students that have 500 points
+21. Find the names of students that contains 's'
+22. Find all students based on the decreasing order of their points
+23. commit ("Count & Filter") 🔑🔑
