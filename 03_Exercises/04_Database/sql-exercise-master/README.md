@@ -30,24 +30,15 @@ You can also refer to w3schools tutorials [here](https://www.w3schools.com/sql/d
 - Fork this repo
 - Clone it on your laptop
 - Open DB Browser for SQLite, Press **Open Database** in top menu, and select the file named **myDatabase** in the repo
-- Create a file called **results.txt** 
-- For each of the questions below, write in **results.txt** the following:
- - <kbd>The number of the question</kbd>
- - <kbd>The query answer</kbd>
- - <kbd>The result of the query</kbd>
+- For each of the questions below, write in **answers.sh** the query you used to solve the problem
 
 Example:
 
-Problem 0: Get all the data from the students table in the database.
+<u>Problem 0:</u> Get all the data from the students table in the database.
 
-Select * from students
+<u>Answer:</u> select * from students
 
-"1"	"Alex"	"21"	"M"	"200"<br>
-"2"	"Basma"	"25"	"F"	"300"<br>
-"3"	"Hasan"	"30"	"M"	"150"<br>
-"4"	"Layal"	"18"	"F"	"350"<br>
-"5"	"Robert"	"34"	"M"	"500"<br>
-"6"	"Jana"	"33"	"F"	"500"<br>
+<u>Inside **answers.sh** write:</u> "select * from students"
 
 ### Basic Queries
 
