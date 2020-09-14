@@ -1,59 +1,41 @@
-# Community Project Website Exercise
+# HTML, CSS and Git exercises
 
-In this exercise, you will be replicating the same website using different technologies.
+A big thanks to Code Your Future.
 
-We're going to build a web page that will showcase a community project.
+---
 
-## Pre-requisites
+## Set up the project
 
-The minimum requirement for this exercise is basic HTML. However, the exercise can be done using any front-end technology.
+Before you can start the exercises, you must install all of the code necessary to run the exercises. Open the Terminal and run the following command.
 
-You can refer to w3schools tutorials [here](https://www.w3schools.com/html/default.asp) in order to learn or verify the HTML syntax.
+```
+npm install
+```
 
-## Goals
+Carefully read the messages that appear. Are there any errors? If so, please ask a mentor for help.
 
-- Create a proper web page using semantic markup and taking into consideration accessibility and responsiveness.
-- Practice writing any front-end language you like
-- **Pages**: 
-  - <kbd>Home</kbd>
-  - <kbd>News and Events</kbd>
-  - <kbd>Contact</kbd>
+## Begin working on the exercises
 
-## Instructions
+To work on the first exercise, run the following command in the Terminal.
 
-- Run `git pull` inside your submission directory
-- Install Visual Studio Code
+```
+npm run 1
+```
 
-### HTML PART I
+This will launch the sample website for the first exercise in your browser.
 
-In this part of the exercise, you will develop the three pages mentioned above using only HTML (no styling, no features): 
-1. First come up with a community project idea and ways you can implement it. 
-1. Create a **Home** page that explains your idea and how people can help.
-3. Create a **News and Events** page with some events and news from your creation.
-4. Create a **Contact Us** page that includes the contact info (phone number, email address, location) and a contact form
-5. Create a **Menu** that can be used to navigate between the pages, and include it in all the pages
-6. Commit ("HTML") 30 x 🔑
+Now go back to your code editor. Open the first exercise in the `week-1` directory and find the `readme.md` file.
 
-### CSS PART II
+![Screenshot showing how to open a preview of the readme for the first exercise](/Exercises/html-css-git-exercises/images/fork-open-readme.gif)
 
-In this part, you will design the previously developed website
-1. Change font families, font sizes, colors
-2. Align the content of the pages and change width and height of each part
-3. Add images and background images
-3. Make it responsive!
-4. Commit ("CSS") 30 x 🔑
+Read the instructions in the file you just opened. Follow the steps to complete the exercise.
 
-### React PART III
+## Completing more exercises
 
-Wow! You've reached this part, you must be good. Well, here's a hard one.
+When you have finished the first exercise, you can begin the next one. To do this, go to the Terminal and type `CTRL`+`C` to stop running the first exercise.
 
-In this part, you will migrate the previously developed website from HTML & CSS ==> React
-1. Use create-react-app command
-2. For each part of the website, create a component. For example, if you have a header, slider, container and a footer in your hompage, each should be a component. You will find out here that one of the benefits of React is code reusability (ex. using 1 header code for all pages)
-3. Use react-router to navigate between the pages
-4. Commit ("React") 30 x 🔑
+To run another exercise, run the following code with the correct number of that exercise:
 
-### Example project 
-You can use the following as an inspiration for your project website (credits: codeyourfuture)
-
-![](./bikes%20for%20refugees.png)
+```
+npm run 2
+```
