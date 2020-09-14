@@ -65,7 +65,6 @@
 
   - [HTML/CSS](03_Exercises/01_HTML_CSS/README.md)
     - [HTML-CSS-GIT](03_Exercises/01_HTML_CSS/community-project.md)
-  - [CSS](03_Exercises/02_CSS/README.md)
   - [JavaScript](03_Exercises/03_JavaScript/README.md)
     - [Basics-01](03_Exercises/03_JavaScript/javascript-basics-01/readme.md)
     - [Basics-02](03_Exercises/03_JavaScript/javascript-basics-02/readme.md)
