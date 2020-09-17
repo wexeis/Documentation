@@ -54,13 +54,13 @@ n.b: Some of the concepts we talked about earlier are not applied here but no wo
 ## CodiTech
 At Codi we have our own organization hosted on github : [CodiTech](www.github.com/coditech)
 
-It contains multiple repositories. These are the main ones :
-* Documentation 
-> This is for Gitbook. All of the documentation files are hosted there. You will not need to **fork** this.
-* Submission Folder
-> This will be the main repository for your exercises and challenges.
+It contains multiple repositories like :
+
+* HTML-CSS-Git-Exercise
+> This will be the main repository for your first exercise.
+
 * Team Projects (e.g. Prefab-Houses)
-> Certain team projects will require you to **fork** additional repositories. Team projects are some of them.
+> Certain team projects will require you to **clone** or **fork** additional repositories. Team projects are some of them.
 
 What is fork ? [Secret](https://help.github.com/en/articles/fork-a-repo)
 
@@ -76,95 +76,61 @@ What is fork ? [Secret](https://help.github.com/en/articles/fork-a-repo)
 Good you're all set !
 
 ## Submission Repository
-During prairie you will have to do some exercises to get keys. These exercises will have to be pushed in a submission folder.
-The [Submission Repository](https://github.com/coditech/Submissions) is present in Coditech Github. 
+During prairie you will have to do some exercises to get keys. These exercises have to be pushed into your own branch in the specific project repository. You will need to follow some steps to get that done.
 
-1. It's time to fork it! We will use the graphical interface for that.
-Get to the Submission repository and lets fork it to our own repository space.
-![](./Assets/git_02_fork_instruction.PNG)
- 1. Click on the Fork button and let github do the job for you.
-> Done ? You should now see it in your repository's list. Github redirects you automatically to it. If you have trouble finding it, you can use this url https://github.com/YOURUSERNAME/Submissions *don't forget to edit **YOUR USER NAME**.
-2. Great ! We will clone into our computer now. There are different clone protocols (HTTPS & SSH). For now we will use the simple https protocol.
+1. Clone the repository.
+
+Lets start by going to a repository (preferably HTML-CSS-Git-Exercise repository). You will find a green **Code** button.
+![](./Assets/git_02_code_button.PNG)
+ 1. Once you click on the button, you will be presented with several options to get the repository. You can simply download it as a ZIP file, use the Github desktop app, or preferably, clone it using git.
+ 
+2. We will clone into our computer now. There are different clone protocols (HTTPS & SSH). For now we will use the simple https protocol.
 ![](./Assets/git_02_clone_instruction_01.PNG)
- 1. Click on the green button "Clone or download" and copy the link provided.
+ 1. Copy the link provided.
  2. Open your terminal and move to Desktop. This is where the repository will be downloaded
  3. Write the following command to clone
 ```sh
-    $(username): git clone **paste your link (ctrl + shift + v)**
+    git clone **paste your link (ctrl + shift + v)**
 ```
-> By default the clone command will create a folder named like your online repository, in our case it will be **Submission**. You can override this by adding an additional argument in the command line as follows.
+> By default the clone command will create a folder named like your online repository, in our case it will be **HTML-CSS-Git-Exercise**. You can override this by adding an additional argument in the command line as follows.
 ```sh
-    $(username): git clone **paste your link (ctrl + shift + v)** YOURFOLDERNAME
+   git clone **paste your link (ctrl + shift + v)** YOURFOLDERNAME
 ```
   4. Done ? We are set ! Just one more thing...
 
-> You can download manually a repository without cloning but this will not include the .git files
+> If download manually a repository without cloning, this will not include the .git files. You will see that we will need them.
 
-*** !! Submissions folder might recieve updates at any time !! ***
+#### Submissions Steps
 
-#### Submissions Repository Updates
+The following steps will show you how to submit your exercise.
 
-In order to keep our Submissions folder updated with the coditech repository we will add a [remote access (stackoverflow)](https://stackoverflow.com/questions/13786781/what-does-git-remote-add-exactly-do)
-
-The following steps will show you how to add a remote access. In our case the new remote will be Coditech.
-
-##### Step 1,2,3 : Verification
+##### Step 1 : Create your Own Branch
+* !!! This step must be done before you start writing any code  !!!
 * Locate Submission Folder on your computer (the one you cloned previously).
-* Open your terminal/(Konsole *** arch ***)  (within the Submission Folder) 
-* Write the command and verify you have no active changes. 
+* Open your terminal (within the exercise folder) 
+* Create your own branch. A branch is a way for us to diverge from the main codebase in the repository and work normally without affecting that main code. To do so please use the following command: 
 
 ```sh 
-  git status
+  git checkout -b "your-full-name"
 ``` 
-> *If you have active changes, Commit and Push before next steps*
+> *Make sure you write your full name properly following this convention: "firstName-lastName". Submissions with incomplete names and nicknames will not be accepted*
 
-##### Step 4 : Adding Remote
-* Still in your terminal (within the submission folder) write the following command
+##### Step 2 : Pushing Changes to Your Branch
+* After you are done with your exercises make sure you add them using ``` git add . ``` and then commit them. The commit messages must be meaningful and descriptive which is why it is recommended that you commit every major feature on its own. Example: "Added Navigation Bar", "Fixed Images in index.html" ...
 
+* Once you commit all changes, it is time to update your remote branch. Run
 ```sh
-  git remote add upstream https://github.com/coditech/Submissions.git
-```
-> With git Remote we say to our git system to locate coditech/submission repository and add it as 'upstream'
-
-##### Step 5 : Remote Verification
-* Verify if the Remote is correctly added
-
-```sh
-  git remote -v
-```
-You should now see the following output :
-```sh
-  origin  https://github.com/github_username/submissions.git (fetch)
-  origin  https://github.com/github_username/submissions.git (push)
-  upstream        https://github.com/coditech/Submissions.git (fetch)
-  upstream        https://github.com/coditech/Submissions.git (push)
-```
-As you can see 'origin' is pointing to your own github account while 'upstream' is pointing to coditech. Perfect...
-
-##### Step 6 : Update Local Repository
-* We will now update our local repository. for this you will need two command. Run the following in your terminal (within your submission folder)
-
-```sh
-  git fetch upstream
-  git pull upstream master
-```
-> git fetch will simply verify that your repository is able to recieve updates from the upstream (coditech).
-> git pull will get all the new files from coditech and update your local repository.
-
-##### Step 7 : Updating Github Repository
-* Update your github Repository. You will simply perform a standard commit/push.
-
-```sh
-git add -A
-git commit -m "Sync Coditech / Submission master"
-git push origin master
+  git push -u origin branch-name
 ```
 
 Voilà, Your set !
 
-*** Note ***: Next time you will need to update your repository simply redo the steps 3, 6 and 7.  
+*** Note ***: Every time you want to do any changes redo step 2.
 
-Ressources : [Github - Remote Access](https://gist.github.com/CristinaSolana/1885435#gistcomment-2857738) 
+***Note 2 ***: In case you want to switch between branches simply use:
+```sh
+  git checkout branch-name
+```
 
 ## Git Software Manager
 Git system is huge and it can be tiresome when you have to deal with problems. Fortunately there are many alternative solutions to command lines and we call them Git Managers.
