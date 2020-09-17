@@ -81,8 +81,10 @@ During prairie you will have to do some exercises to get keys. These exercises h
 1. Clone the repository.
 
 Lets start by going to a repository (preferably HTML-CSS-Git-Exercise repository). You will find a green **Code** button.
+
 ![](./Assets/git_02_code_button.PNG)
- 1. Once you click on the button, you will be presented with several options to get the repository. You can simply download it as a ZIP file, use the Github desktop app, or preferably, clone it using git.
+
+Once you click on the button, you will be presented with several options to get the repository. You can simply download it as a ZIP file, use the Github desktop app, or preferably, clone it using git.
  
 2. We will clone into our computer now. There are different clone protocols (HTTPS & SSH). For now we will use the simple https protocol.
 ![](./Assets/git_02_clone_instruction_01.PNG)
