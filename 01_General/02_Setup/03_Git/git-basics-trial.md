@@ -18,10 +18,8 @@ Before starting your work it is important to know the good practices. Organizati
 
 We recommend you to read more about these good practices before starting. [here is a useful link](https://github.com/trein/dev-best-practices/wiki/Git-Commit-Best-Practices)
 
-#### Submission folder
-Open the submission folder you have cloned earlier. locate Exercises/git-trial. 
-
-You can now start editing/working on the *markdown-cv.md* file.
+#### Submission
+Clone the Git-Trial repository. You will be submitting it as discussed in Git Basics 2
 
 ## Tasks
 
@@ -35,29 +33,6 @@ You can now start editing/working on the *markdown-cv.md* file.
 
 *note*: You cannot submit this exercise in an incomplete state, all steps have to be done
 
-## Submit your work with a pull request. <kbd>🔑x10</kbd>
-
-We want to check your completed work. To do so, you will need to send us a reminder by creating a pull request.
-
-Once you have completed and verified your work follow the instructions.
-
-First go to your github account and open your submission repository.
-
-Find the Pull Request button and click on it.
-
-![](./Assets/git_trial_pull_request_01.png)
-
-You should now see the following page 
-
-![](./Assets/git_trial_pull_request_02.png)
-
-Verify that the changes are linked to the exercise you have just done.
-
-Then Click on 'Create pull request'. Github will ask you to fill a form. let us know what you have done/change and write your full name in the commit.
-
-Click again on the 'Create pull request'. 
-
-You should be set. 
 
 ## References:
 
