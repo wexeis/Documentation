@@ -19,7 +19,7 @@ Before starting your work it is important to know the good practices. Organizati
 We recommend you to read more about these good practices before starting. [here is a useful link](https://github.com/trein/dev-best-practices/wiki/Git-Commit-Best-Practices)
 
 #### Submission
-Clone the Git-Trial repository. You will be submitting it as discussed in Git Basics 2
+Clone the Git-Trial repository. You should follow the steps discussed in Git Basics 2
 
 ## Tasks
 
