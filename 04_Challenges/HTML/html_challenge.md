@@ -13,7 +13,7 @@ This document should contain the following
 * Uses 3 formatting types.
 * Atleast one image that should contain the alt attribute. 
 
-When completed push your file to the submission folder on github.
+When completed push your file to github.
 
 * On verification you will get 3x 🔑
 
@@ -31,7 +31,7 @@ It should contain the following:
 * Images should contain the alt attribute. 
 
 The main focus in this exercise is the HTML. Use minimal CSS to make the page readable and neat (colours, backgrounds, width, height, margin, padding.......)
-When completed push your file to the submission folder on github.
+When completed push your file to github.
 
 * On verification you will get 5x 🔑
 
@@ -56,7 +56,7 @@ It should contain the following:
 * * Submit button.
 
 The main focus in this exercise is the HTML. Use minimal CSS to make the page readable and neat (colours, backgrounds, width, height, margin, padding.......)
-When completed push your file to the submission folder on github.
+When completed push your file to github.
 
 * On verification you will get 7x 🔑
 
