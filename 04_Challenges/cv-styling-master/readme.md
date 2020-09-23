@@ -5,7 +5,7 @@
 - Learn and apply CSS Selectors
 - Learn and apply CSS rules
 - Understand the markup/styling separation
-- **Competencies**: 
+- **Competencies**:
   - <kbd>Selectors</kbd>
   - <kbd>Pseudo Selectors</kbd>
   - <kbd>Box Model</kbd>
@@ -31,13 +31,13 @@
 1. Edit the HTML so it reflects your own information
 1. Implement your own Style
 
-Note: Before reaching the last step, you should **not** touch the HTML. You *may* change names, texts, and images to personalize the CV.
+Note: Before reaching the last step, you should **not** touch the HTML. You _may_ change names, texts, and images to personalize the CV.
 
 ## How To
 
 ### 1 - Preparing:
 
-1. Get into your submission folder. Exercises > CV-Styling.
+1. Fork this repository then clone the fork to your pc.
 
 ### 2 - Implement Style 1:
 
@@ -63,7 +63,7 @@ Note: Before reaching the last step, you should **not** touch the HTML. You *may
 
 ### 4 - Edit the HTML:
 
-1. *note*: You CANNOT do this step without a previous commit
+1. _note_: You CANNOT do this step without a previous commit
 1. You NEED at least one commit with the HTML untouched before beginning this part
 1. If you don't have a commit with the HTML untouched, DONT touch the HTML, your exercise is VOID
 1. Edit `public/style1/index.html` and replace the information inside with your own
@@ -76,12 +76,11 @@ Note: Before reaching the last step, you should **not** touch the HTML. You *may
 
 1. Don't panic! One step at a time
 1. Don't forget to push back changes from time to time (`git add -A`, then `git commit -m "message"` then `git push -u origin master`)
-1. When you're satisfied, submit a *Pull Request* on github.
-
 
 ## Images:
 
 ### first style
+
 ![1st style](./style1-n.png "First Style")
 
 ![1nd style mobile](./style1-mobile-n.png "First Style Mobile")
