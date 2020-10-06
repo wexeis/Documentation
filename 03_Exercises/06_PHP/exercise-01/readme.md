@@ -57,7 +57,6 @@ Rules:<br>
       - 10,000$ < salary < 25,000$: 11% Tax
       - 25,000$ < salary < 50,000$: 30% tax
       - salary > 50,000$: 45% tax <br><br>
-
   4. Tax free allowance must be added to salary after tax.
   5. A social security fee worth 4% of the salary is deducted from salary for anyone with salary > 10,000$.<br>
   6. The site must be extremely user friendly and looks good. You will receive extra keys for your creativity.<br>
