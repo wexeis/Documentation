@@ -36,31 +36,31 @@ In this exercise we will be creating an income tax calculator. Your task will be
 
 To do so you must have the following:
 
-1. A form containing the following fields:</br>
-  a. Salary in USD </br>
-  b. Radio button with 2 options: Yearly or monthly. </br>
-  c. Tax Free Allowance in USD </br>
+1. A form containing the following fields:<br>
+  a. Salary in USD <br>
+  b. Radio button with 2 options: Yearly or monthly. <br>
+  c. Tax Free Allowance in USD <br>
 
-2. The results should be shown in a tabular format and should include: </br>
-  a. Two columns: monthly and yearly </br>
+2. The results should be shown in a tabular format and should include: <br>
+  a. Two columns: monthly and yearly <br>
   b. The following rows:
     - Total salary
     - Tax amount
     - Social security fee
-    - Salary after tax </br>
+    - Salary after tax <br>
 
 Rules:<br>
-  1. All the fields are required. </br>
-  2. When you choose monthly or yearly the calculation must adjust accordingly </br>
+  1. All the fields are required. <br>
+  2. When you choose monthly or yearly the calculation must adjust accordingly <br>
   3. There are some salary ranges that will affect the percentage of the tax. Below is the list of yearly salaries and their taxes:
       - salary < 10,000$: 0% tax
       - 10,000$ < salary < 25,000$: 11% Tax
       - 25,000$ < salary < 50,000$: 30% tax
-      - salary > 50,000$: 45% tax </br></br>
+      - salary > 50,000$: 45% tax <br><br>
 
   4. Tax free allowance must be added to salary after tax.
-  5. A social security fee worth 4% of the salary is deducted from salary for anyone with salary > 10,000$.</br>
-  6. The site must be extremely user friendly and looks good. You will receive extra keys for your creativity.</br>
+  5. A social security fee worth 4% of the salary is deducted from salary for anyone with salary > 10,000$.<br>
+  6. The site must be extremely user friendly and looks good. You will receive extra keys for your creativity.<br>
   7. Bonus <kbd>5x🔑</kbd> if you stay in the same page on submit and maintain the inputs in their respective input fields.
 
 ## Part 3: Palindrome <kbd>5x🔑</kbd>
