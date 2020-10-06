@@ -55,8 +55,8 @@ Rules:<br>
   3. Tax free allowance must be added to salary after tax.
   4. A social security fee worth 4% of the salary is deducted from salary for anyone with salary > 10,000$.<br>
   5. The site must be extremely user friendly and looks good. You will receive extra keys for your creativity.<br>
-  6. Bonus <kbd>5x🔑</kbd> if you stay in the same page on submit and maintain the inputs in their respective input fields.<br>
-  7. There are some salary ranges that will affect the percentage of the tax. Below is the list of yearly salaries and their taxes: 
+  6. Bonus <kbd>5x🔑</kbd> if you stay in the same page on submit and maintain the inputs in their respective input fields.
+  7. There are some salary ranges that will affect the percentage of the tax. Below is the list of yearly salaries and their taxes.
       - salary < 10,000$: 0% tax
       - 10,000$ < salary < 25,000$: 11% Tax
       - 25,000$ < salary < 50,000$: 30% tax
