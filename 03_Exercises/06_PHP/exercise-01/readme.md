@@ -8,7 +8,7 @@
 
 We will be creating registration and login process for a website.
 
-1. Create 2 pages:<br/>
+1. Create 2 pages:<br>
   a. Registration and Login Page. (home.php)<br/>
   b. Logged in Page (safe.php)<br/>
 
