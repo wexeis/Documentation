@@ -80,6 +80,7 @@
     - [Basics-02](03_Exercises/06_PHP/basic-02/readme.md)
     - [Basics-03](03_Exercises/06_PHP/basic-03/readme.md)
     - [Basics-04](03_Exercises/06_PHP/basic-04/readme.md)
+    - [Exercise-01](03_Exercises/06_PHP/basic-04/readme.md)
 
 - [Challenges](04_Challenges/README.md)
 
