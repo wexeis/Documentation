@@ -14,15 +14,15 @@ We will be creating registration and login process for a website.
 
 2. The first page should be split in half. The left side is where a user registers, whereas the right side is where the user logs in. Go crazy with the design as the really good ones will get bonus keys
 
-3. Registration fields:</br>
-  a. Full Name</br>
-  b. Username</br>
-  c. Password</br>
-  d. Confirm Password<br/>
-  e. Email</br>
-  f. Phone</br>
-  g. Date of Birth</br>
-  h. Social Security Number</br>
+3. Registration fields:<br>
+  a. Full Name<br>
+  b. Username<br>
+  c. Password<br>
+  d. Confirm Password<br>
+  e. Email<br>
+  f. Phone<br>
+  g. Date of Birth<br>
+  h. Social Security Number<br>
 
 4. Login Fields:<br/>
   a. Username<br/>
