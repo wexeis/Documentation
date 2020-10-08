@@ -21,8 +21,6 @@ In this exercise, you will solve logical problems using JavaScript (JS) and HTML
 
 ## Instructions
 
-- Fork this repo
-- Clone it on your laptop
 - For each of the below problems, create a **problemX.html** file where X is the number of the problem
 - In each problem, you should take the input of the user using an **input field** and give output using **script**
 
