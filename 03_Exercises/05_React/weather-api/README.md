@@ -52,7 +52,7 @@ Pay attention to any errors, and then check that your changes made it to github,
 
 ### Read, Analyze, Read, Analyze, Read and Analyze
 
-Read the Readme at least 3 times, after each reading discuss what you understood with each others
+Read the Readme at least 3 times; after each reading discuss what you understood with each others
 
 ### Aim
 
@@ -64,7 +64,7 @@ You will be connecting to a real-time weather API to make a weather app that loo
 
 ### 1. Getting started: Static HTML and CSS <kbd>🔑x30</kbd>
 
-Let's start slow by creating the HTML and CSS we need to make the app look like the design: do this is App.js and App.css
+Let's start slow by creating the HTML and CSS we need to make the app look like the design: this is App.js and App.css
 
 Don't worry about fetching data yet, you can use **invented, "hardcoded"** values for now - just focus on getting content up on the page and imitating the design provided. However, do not leave out the values! Put numbers in so that you can confirm how the layout will work with numbers present. Using the numbers that occur in the screenshot is a good idea.
 
@@ -143,7 +143,7 @@ Into which react component should you load it? The highest component in the hier
 
 #### About the JSON structure
 
-Spend some time investigating the json structure and figuring out which bits you need to use.
+Spend some time investigating the JSON structure and figuring out which bits you need to use.
 
 This JSON represents weather data for **just one city**.
 
@@ -194,7 +194,7 @@ where CITY_NAME is replaced by the city you're looking for, for example 'London'
 
 example format: http://api.openweathermap.org/data/2.5/forecast?q=London&cnt=8&units=metric&appid=57cf9da04987637a23fcbc26f5356e12 (this doesn't work because it's a fake API key, but when you replace it with yours, it will ;) )
 
-**Think about when you want to fetch your data...** HINT (Hey Siri, On React lifecylce, when to fetch data :) )
+**Think about when you want to fetch your data...** HINT (Hey Siri, On React lifecycle, when to fetch data :) )
 
 #### Thinking about data flow through your components
 
@@ -278,6 +278,5 @@ Add a new section to your app that will display the weather over the next 24 hou
 1. Temperature units are Celsius, Fahrenheit and Kelvin
 2. The weather API use the Kelvin Unit
 3. 1 Celsius is equal to 274.15 Kelvin **C = K - 273.15**
-4. Ask for the React hooks example
 
 Good luck!
