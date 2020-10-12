@@ -280,6 +280,5 @@ Add a new section to your app that will display the weather over the next 24 hou
 1. Temperature units are Celsius, Fahrenheit and Kelvin
 2. The weather API use the Kelvin Unit
 3. 1 Celsius is equal to 274.15 Kelvin **C = K - 273.15**
-4. Ask for the sample app as a last resort.
 
 Good luck!
