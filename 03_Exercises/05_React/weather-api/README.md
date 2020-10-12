@@ -22,6 +22,8 @@ The minimum requirements for this exercise are:
 
 ## Set up
 
+Fork the given repo and then clone.
+
 Navigate to the correct directory using the command line.
 
 In the project directory, you can run:
