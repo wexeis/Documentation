@@ -1,6 +1,6 @@
 # Keys system
 
-In order for a cohort to win, they have to acquire a certain number (currently, 16000) keys (<kbd>🔑</kbd>)
+In order for a cohort to win, they have to acquire a certain number (currently, 16000) keys ( )
 
 ## Rationale
 

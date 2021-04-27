@@ -23,11 +23,11 @@ Clone the Git-Trial repository. You should follow the steps discussed in Git Bas
 
 ## Tasks
 
-- Compose your CV properly, in proper English and proper direction<kbd>🔑🔑</kbd>
-- Write your CV in markdown format (what is [markdown](http://lmgtfy.com/?q=markdown)?)<kbd>🔑</kbd>
+- Compose your CV properly, in proper English and proper direction 
+- Write your CV in markdown format (what is [markdown](http://lmgtfy.com/?q=markdown)?) 
 - Leave *on purpose* something missing in it
 - Push it to github under the name `markdown-cv`
-- Fix the problem you left out on purpose before, commit <kbd>🔑</kbd>
+- Fix the problem you left out on purpose before, commit  
 - Choose an image that represents you, add it to the repository and display it in the markdown file
 - push to github
 

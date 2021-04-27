@@ -33,5 +33,5 @@ You will find a series of test which, originally, do not work. The tests are che
 4. Open `questions.js`, and look at the first function, `const stringSize = (text) => {...`. Fill the function such as the test passes
 5. Refresh `specRunner.html` in your browser (<kbd>f5</kbd> or <kbd>ctrl</kbd>+<kbd>r</kbd>)
 6. You should see the first red mark become a green mark, which means the first test is passing. If it does, congrats! Go to the next test. If it doesn't, keep trying
-7. Once you get to the `createLanguagesArray` function, commit <kbd>🔑🔑</kbd>
-8. When you're done, submit a pull request <kbd>🔑🔑🔑</kbd>
+7. Once you get to the `createLanguagesArray` function, commit  
+8. When you're done, submit a pull request  

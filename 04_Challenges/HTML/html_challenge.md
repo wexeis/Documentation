@@ -33,7 +33,7 @@ It should contain the following:
 The main focus in this exercise is the HTML. Use minimal CSS to make the page readable and neat (colours, backgrounds, width, height, margin, padding.......)
 When completed push your file to github.
 
-* On verification you will get 5x 🔑
+<!-- * On verification you will get 5x 🔑 -->
 
 -----------------
 
@@ -58,5 +58,5 @@ It should contain the following:
 The main focus in this exercise is the HTML. Use minimal CSS to make the page readable and neat (colours, backgrounds, width, height, margin, padding.......)
 When completed push your file to github.
 
-* On verification you will get 7x 🔑
+<!-- * On verification you will get 7x 🔑 -->
 

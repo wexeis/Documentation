@@ -33,7 +33,7 @@ If everything went well, you already have a Linux system. You need to install th
 
 - Install Apache, PHP, MySQL
 - Configure Apache to use PHP
-- Create a php file that contains the text `<?php phpinfo(); ?>`. Make sure it works. <kbd>🔑🔑🔑</kbd>
+- Create a php file that contains the text `<?php phpinfo(); ?>`. Make sure it works.  
 - Configure PHP to be able to use MariaDB
-- Install PHPMyAdmin, make sure it works <kbd>🔑🔑</kbd>
+- Install PHPMyAdmin, make sure it works  
 - Congrats! you have a working LAMP!

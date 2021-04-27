@@ -42,14 +42,14 @@
 ## Step 4 : Strings concatenation 2
 
 1. Just like Step 3, but ask for name, surname, and city (Step 2 + Step 3)
-2. Commit <kbd>🔑</kbd>
+2. Commit  
 
 ## Step 5 : Simple Math
 
 1. Ask for the user for two numbers
 2. Multiply them
 3. Show the result to the user
-4. Commit <kbd>🔑</kbd>
+4. Commit  
 
 ## Step 6 : External files and Simple Math
 
@@ -58,7 +58,7 @@
 3. Have the user provide two numbers
 4. Divide them
 5. Show the user the remainder of the division
-6. Commit <kbd>🔑</kbd>
+6. Commit  
 
 ## Step 7 : Multiple operations
 
@@ -71,13 +71,13 @@
   4. Subtracts the birth year
   5. Adds 1766
 4. Shows the result to the user  
-5. Commit <kbd>🔑</kbd>
+5. Commit  
 
 ## Step 8 : if, else
 
 1. Ask the user for their age
 2. If the user is over 18, show "you are over 18", else, show them "you are under 18"
-3. Commit <kbd>🔑🔑</kbd>
+3. Commit  
 
 ## Congrats!
 

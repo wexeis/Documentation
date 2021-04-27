@@ -49,7 +49,7 @@ Note: Before reaching the last step, you should **not** touch the HTML. You _may
 1. Begin implementing the styles!
 1. When you're done, commit
 
-<kbd>🔑x40</kbd>
+<!-- <kbd>🔑x40</kbd> -->
 
 ### 3 - Implement style 2:
 
@@ -59,7 +59,7 @@ Note: Before reaching the last step, you should **not** touch the HTML. You _may
 1. Some images are used in this one; feel free to replace them with your own images if you prefer
 1. When you're done, commit
 
-<kbd>🔑x30</kbd>
+<!-- <kbd>🔑x30</kbd> -->
 
 ### 4 - Edit the HTML:
 
@@ -70,7 +70,7 @@ Note: Before reaching the last step, you should **not** touch the HTML. You _may
 1. Once you're done, copy the file to `public/style2` to replace the previous `index.html`
 1. When you're done, commit
 
-<kbd>🔑x30</kbd>
+<!-- <kbd>🔑x30</kbd> -->
 
 ### Notes:
 

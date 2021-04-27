@@ -40,7 +40,7 @@ In the beginning, we want to make sure we know how to make things move.
     - give the square some positioning that allows you to place it precisely (css `position` property)
     - make a function that moves it (using `left` or `transform`)
     - then run this function every second
-  - commit <kbd>🔑🔑🔑</kbd>
+  - commit  
 
 ## Step 2 - Control
 
@@ -50,13 +50,13 @@ In the beginning, we want to make sure we know how to make things move.
   - add 3 other buttons and make them control the 4 directions
   - congrats, you can move the square!
   - optional: capture the keyboard keys to move the square with the keyboard
-  - commit <kbd>🔑🔑</kbd>
+  - commit  
 
 ## Step 3 - Game States
 
   - In the beginning, the square should be stopped
   - When the user clicks a button / presses spacebar or enter, the game starts
-  - commit <kbd>🔑🔑</kbd>
+  - commit  
 
 ## Step 4 - Randomness
 
@@ -71,34 +71,34 @@ In the beginning, we want to make sure we know how to make things move.
 
   - When the Snake hits a wall, stop the game
   - Add a counter. When the snake hits an apple, place a new apple anywhere (using the same function you created before), and add 1 to the score
-  - commit <kbd>🔑</kbd>
+  - commit  
 
 ## Step 6 - Game implementation
 
   - Make it so when the snake picks an apple, the tail grows by 1 (create an additional div)
   - *take your time*,  this part isn't always immediately intuitive
-  - commit <kbd>🔑🔑</kbd>
+  - commit  
 
 ## Step 7 - UX Niceties
 
   - Make it so the snake cannot go back on itself (i.e, it cannot go immediately down if it was going up)
   - Make the snake faster with each apple
   - Make the snake able to collide with its own tail. Stop the game if the snake hits its tail
-  - commit <kbd>🔑</kbd>
+  - commit  
 
 ## Step 8 - Screens
 
   - Add a game over screen
   - Add a "start game" screen
-  - commit <kbd>🔑</kbd>
+  - commit  
 
 ## Step 9 - Finishing touches
 
-  - add animations, commit <kbd>🔑</kbd>
-  - make it look good, commit <kbd>🔑</kbd>
-  - add sounds, commit <kbd>🔑</kbd>
+  - add animations, commit  
+  - make it look good, commit  
+  - add sounds, commit  
 
 ## Step 10 - Canvas
 
   - Without changing most of your code, make it work with canvas
-  - commit <kbd>🔑🔑🔑</kbd>
+  - commit  
