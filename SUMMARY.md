@@ -93,6 +93,4 @@
   * [Group Research & Illustrations](07_non_pogramming/group-research-illustration.md)
   * [Social Media Networking](07_non_pogramming/social-media-networking.md)
   * [Interactive Story : Part 1](07_non_pogramming/interactive-story-part1.md)
-* [Testing](08_testing/README.md)
-  * [Test](08_testing/test-test.md)
 
