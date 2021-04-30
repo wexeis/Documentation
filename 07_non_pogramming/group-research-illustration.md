@@ -1,6 +1,6 @@
 # Group Research & Illustrations
 
-## Group Research 🔑x-10 ~ 🔑x30
+## Group Research
 
 > Group Research occur in the period of prairie. Every group shall present in front of the class the subject of their choice. you can pick from the list we provide or submit your own idea \(a mentor has to approve it\)..
 
@@ -13,11 +13,7 @@
 * The presentation should last atleast 15 minutes and should not exceed 20 minutes.
 * your test should target every student and mentors.
 
-### Test Rewards
 
-* For each student who passes your test, you get 🔑x1. 
-* If every students passes the test, you get 🔑x30. 
-* If the teacher feels your test is invalid, you get **-** 🔑x10
 
 ### List
 

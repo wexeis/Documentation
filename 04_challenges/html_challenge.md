@@ -16,8 +16,6 @@ Create an HTML file and name it “your name HTML 1": This document should conta
 
 When completed push your file to github.
 
-* On verification you will get 3x 🔑
-
 ## Level 2:
 
 Create an HTML file and name it "your name HTML 2" It should contain the following:

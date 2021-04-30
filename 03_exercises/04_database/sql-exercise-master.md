@@ -43,7 +43,7 @@ Inside **answers.sh** write: "select \* from students"
 
 ### Basic Queries
 
-In the **Execute SQL** tab, do the following: 1. Get all the names of students in the database 2. Get all the data of students above 30 years old 3. Get the names of the females who are 30 years old 4. Get the number of Points of **Alex** 5. Add yourself as a new student \(your name, your age...\) 6. Increase the points of **Basma** because she solved a new exercise 7. Decrease the points of **Alex** because he's late today 8. Remember to update **answers.sh** file 9. Commit \("Basic Queries"\) 🔑🔑🔑
+In the **Execute SQL** tab, do the following: 1. Get all the names of students in the database 2. Get all the data of students above 30 years old 3. Get the names of the females who are 30 years old 4. Get the number of Points of **Alex** 5. Add yourself as a new student \(your name, your age...\) 6. Increase the points of **Basma** because she solved a new exercise 7. Decrease the points of **Alex** because he's late today 8. Remember to update **answers.sh** file 9. Commit \("Basic Queries"\)
 
 ### Creating Table
 
@@ -61,7 +61,7 @@ In the **Execute SQL** tab, do the following:
 1. Copy Layal's data from **students** to **graduates**
 2. Add the graduation date previously mentioned to Layal's record in **graduates**
 3. Remove Layal's record from **students**
-4. Commit \("Creating Table"\) 🔑🔑🔑🔑
+4. Commit \("Creating Table"\) 
 
 ### Joins
 
@@ -82,7 +82,7 @@ In the **Execute SQL** tab, do the following:
 1. Produce a table that contains, for each employee, his/her name, company name, and company date.
 2. Find the name of **employees** that work in companies made before 2000.
 3. Find the name of company that has a graphic designer.
-4. Commit \("Joins"\) 🔑🔑🔑🔑🔑
+4. Commit \("Joins"\) 
 
 ### Count & Filter
 
@@ -95,5 +95,5 @@ In the **Execute SQL** tab, do the following:
 3. Find the number of students that have 500 points
 4. Find the names of students that contains 's'
 5. Find all students based on the decreasing order of their points
-6. commit \("Count & Filter"\) 🔑🔑
+6. commit \("Count & Filter"\) 
 

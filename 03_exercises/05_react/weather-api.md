@@ -64,7 +64,7 @@ You will be connecting to a real-time weather API to make a weather app that loo
 
 ![designgif](../../.gitbook/assets/weatherappdemo.gif)
 
-### 1. Getting started: Static HTML and CSS 🔑x30
+### 1. Getting started: Static HTML and CSS 
 
 Let's start slow by creating the HTML and CSS we need to make the app look like the design: this is App.js and App.css
 
@@ -103,7 +103,7 @@ Then later in your `<img/>` tag, use the imported value as the image source, lik
 
 Once you're happy with the way your app looks, it's time to move on.
 
-### 2. Break your HTML into React components 🔑x10
+### 2. Break your HTML into React components 
 
 This is about cutting up your one big single block of HTML and putting sections of it in React components instead.
 
@@ -127,7 +127,7 @@ If you're still new to React and props you should now spend a little time practi
 
 Don't invest too much time in this, however, because what we pass will change in the next step.
 
-### 4. Let's try it with a **STATIC** JSON file 🔑x10
+### 4. Let's try it with a **STATIC** JSON file 
 
 Now let's use an example **static** JSON file and use the data in that JSON object for our temperature and other values. This means your app will read those values locally, from a static JSON file you should include in your project.
 
@@ -176,7 +176,7 @@ Once you've got this all working, it's time to fetch some real weather data!
 # git push
 ```
 
-### 5. Getting the LIVE weather data 🔑x20
+### 5. Getting the LIVE weather data
 
 We'll be using data from this API: [http://api.openweathermap.org/data/2.5/forecast?q=${this.state.searchInput}&cnt=8&units=metric&appid=${apiKey}](http://api.openweathermap.org/data/2.5/forecast?q=${this.state.searchInput}&cnt=8&units=metric&appid=${apiKey})
 
@@ -225,7 +225,7 @@ Look at the design:
 # git push
 ```
 
-### 6. Matching up the weather `id` with the appropriate icon 🔑x10
+### 6. Matching up the weather `id` with the appropriate icon
 
 We will **not** be using the `icon` property of the data, we will only use the `id` and match it with our own svg icons. You can find these svgs in `images/weather-icons`.
 
@@ -244,11 +244,11 @@ You will need to write some code to do the following:
 
 So for example, in the above response, the `id` was 521, which is between 500 and 599, so the icon to display will be `rain.svg`
 
-### 7. Showing more weather information 🔑x10
+### 7. Showing more weather information
 
 Once you're showing the icon, you can also display information about the temperature, the humidity etc. Have a look at the response from the API to find this information, and try to display it as shown in the design! ;\)
 
-### 8. Error-Handling 🔑x10
+### 8. Error-Handling
 
 What should happen if the network is down, or if someone searches for a city which doesn't exist, or is misspelled?
 

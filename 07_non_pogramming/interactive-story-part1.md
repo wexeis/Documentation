@@ -31,19 +31,19 @@ You are _not_ asked to implement it.
 
 ## Instructions
 
-* fork this repo to your team's page 🔑
+* fork this repo to your team's page
 * clone it on one of your laptops
 * Your team will produce:
-  * the graph of the story \(what leads where\) 🔑🔑🔑
-  * the texts 🔑🔑🔑
-  * the images 🔑🔑🔑
-  * an example, with html and css, of one page 🔑🔑🔑
-  * a readme.md that explains all of that, and your intention 🔑🔑
-* When you're done, push it back 🔑x16
+  * the graph of the story \(what leads where\)
+  * the texts
+  * the images
+  * an example, with html and css, of one page
+  * a readme.md that explains all of that, and your intention
+* When you're done, push it back
 
 ## Bonus
 
-Depending on the quality of the work you may obtain an additional 🔑x1 to 🔑x100 points. You will be - subjectively - noted on:
+Depending on the quality of the work you may obtain an additional points. You will be - subjectively - noted on:
 
 * quality of the graph \(how clear, how pleasant to read\)
 * quality of the story

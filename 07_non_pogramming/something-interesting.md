@@ -8,9 +8,5 @@ Try to teach us something !
 * Decide on how to teach it. Try to teach it by having people participate
 * Decide on how to _test_ that people have understood
 
-## Rewards
-
-* For each student who passes your test, you get 🔑x1. 
-* If every students passes the test, you get 🔑x30. 
-* If the teacher feels your test is invalid, you get **-**🔑x10
+## 
 
