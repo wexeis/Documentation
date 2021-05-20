@@ -3,7 +3,7 @@
 ## On Time
 
 * Being on time each day is 🔑x1
-* Being on time 10 times in a row is 🔑x30
+* Being on time 10 times in a row is 🔑x100
 
 ## Premissions
 
