@@ -1,4 +1,4 @@
-# Git Basics Trial \(Exercise\)
+# Git Basics Trial (Exercise)
 
 This exercise will ask to do some very simple operations with Git & Github.
 
@@ -6,7 +6,7 @@ This exercise will ask to do some very simple operations with Git & Github.
 
 * Learn the simplest git mechanisms
 * Understand how they relate to a public git hosting website such as Github or Gitlab
-* **Competencies**: 
+* **Competencies**:&#x20;
   * git basics
   * github basics
   * english basics
@@ -22,15 +22,15 @@ We recommend you to read more about these good practices before starting. [here 
 
 ### Submission
 
-Clone the Git-Trial repository. You should follow the steps discussed in Git Basics 2
+Fork the Git-Trial repository. You should follow the steps discussed in Git Basics 2
 
 ## Tasks
 
-* Compose your CV properly, in proper English and proper direction 
-* Write your CV in markdown format \(what is [markdown](http://lmgtfy.com/?q=markdown)?\) 
+* Compose your CV properly, in proper English and proper direction&#x20;
+* Write your CV in markdown format (what is [markdown](http://lmgtfy.com/?q=markdown)?)&#x20;
 * Leave _on purpose_ something missing in it
 * Push it to github under the name `markdown-cv`
-* Fix the problem you left out on purpose before, commit  
+* Fix the problem you left out on purpose before, commit &#x20;
 * Choose an image that represents you, add it to the repository and display it in the markdown file
 * push to github
 
@@ -42,4 +42,3 @@ _note_: You cannot submit this exercise in an incomplete state, all steps have t
 * What is a [commit](http://lmgtfy.com/?q=what+is+git+commit)?
 * How to [display an image in markdown](http://lmgtfy.com/?q=how+to+display+an+image+in+markdown)?
 * Any other question, click [here](http://lmgtfy.com/?q=how+do+I+search+for+things+on+the+internet)
-
