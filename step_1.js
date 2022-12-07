@@ -1,2 +1,2 @@
-const a"name"
+const a ="name"
 alert(a)
