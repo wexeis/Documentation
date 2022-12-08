@@ -1,5 +1,5 @@
 
-var q = document.getElementById('name');
-q.addEventListener(onblur, function(){
+var q = document.querySelector('#name');
+q.addEventListener('blur', function(){
 alert("thank you for participating!")
 })

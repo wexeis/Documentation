@@ -1,6 +1,11 @@
 var q = document.querySelector('#image1')
-q.addEventListener(onmouseover, function(){
-q.src = "/home/mohamad/Documentation/03_Exercises/03_JavaScript/javascript-basics-02/step 1/images/image1_2.jpg";
+console.log("qqq ",q)
+
+/*q.addEventListener("mouseover", function(){*/
+
+ q.addEventListener('mouseover', function(){
+    console.log("mousever")
+q.src = "./images/image1_2.jpg";
 })
-q.addEventListener(onmouseout, function(){
-    q.src ="/home/mohamad/Documentation/03_Exercises/03_JavaScript/javascript-basics-02/step 1/images/image1.jpg"})
+q.addEventListener('mouseout', function(){
+    q.src ="./images/image1.jpg"})
