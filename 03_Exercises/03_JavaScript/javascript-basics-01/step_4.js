@@ -10,4 +10,4 @@ button.addEventListener('click', function(){
     
     var city = document.getElementById('city').value;
     alert ("Hello! " + name1 + " " + surname + " from " + city);
-})
+})  
