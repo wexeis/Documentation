@@ -10,8 +10,9 @@ function age (x){
 }
 age(x);*/
 
-var button = getElementById('validate');
+var button = document.getElementById('validate')
 button.addEventListener('click', function(){
+
  var age = document.getElementById('age').value;
 if (age < 18){
     alert("you are under 18");
