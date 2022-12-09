@@ -26,7 +26,7 @@
 
 ## Step 2:
 
-1. show or hide the text depending on which anchor (a tag) is clicked.
+1.  
 2. do it with one function!
 3. Commit  
 
