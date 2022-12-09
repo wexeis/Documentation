@@ -6,4 +6,5 @@ var imge = document.getElementById('image1')
 
 imge.addEventListener('mouseover', function(){
     imge.style.border= "thick solid red";
+    
 })
